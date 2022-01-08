@@ -54,7 +54,7 @@ AWS
 ## 📍 Teammate
 
 <div id=teammate>
-  <h4> Front-End </h4>
+  <h4> Front-End / Back-End </h4>
   <table style="text-align:center;">
     <tr>
       <th><a href="https://github.com/iseulpark218/git2021-GAGYM-Backend">박이슬</a></th>
@@ -76,7 +76,7 @@ AWS
       </td>
     </tr>
   </table>
-  <br>
+  <!-- <br>
   <h4> Back-End </h4>
   <table style="text-align:center;">
     <tr>
@@ -99,5 +99,5 @@ AWS
       </td>
     </tr>       
   </table>
-  <br>
+  <br> -->
 </div>
